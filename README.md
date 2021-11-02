@@ -1,9 +1,9 @@
 # SoftwareTest
      
-## Introduction.    
+## Introduction    
 SoftwareTest class projects. 
  
-## Homework projects.
+## Homework projects
 ### Project1: LogicalCoverageCaseStudy.       
 #### LogicalCoverageCaseStudy
 ##### 功能说明
